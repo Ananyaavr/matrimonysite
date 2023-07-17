@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .textland {
+    background: url("https://images.unsplash.com/photo-1563196638-8c9457546e5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+     padding: 15%;
+     background-repeat: no-repeat;
+     background-size: cover;                                                                                       
+     padding-bottom: 400px;
+     /* opacity: 0.5; */
+   }
+   .landtext1{
+     color: white;
+     font-size: 3rem;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+   .landtext2{
+     color:white;
+     font-size: 3rem;
+     padding-top: 2%;
+     font-family: Fasthand;
+   }
+   .landtext3{
+    color:rgb(53, 16, 215);
+    font-size: 3rem;
+    padding-top: 2%;
+    font-family: Fasthand;
+  }
+  .landtext4{
+    color:rgb(86, 226, 95);
+    font-size: 3rem;
+    padding-top: 2%;
+    font-family: Fasthand;
+    padding-bottom: 5%;
+  }
+  .landbut1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 5;
+  }

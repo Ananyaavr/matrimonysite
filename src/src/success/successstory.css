@@ -1,0 +1,23 @@
+.successback{
+   background-image: url("https://images.pexels.com/photos/341371/pexels-photo-341371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+   /* background-repeat: no-repeat; */
+    background-size:contain;
+}
+.successrow1{
+    padding: 6%;
+}
+.successrow2{
+    padding: 6%;
+}
+.successrow3{
+    padding: 6%;
+}
+.successbutton{
+    padding: 5%;
+}
+.successhead{
+    font-size: 3rem;
+    text-align: center;
+    background-image: linear-gradient(rgb(93, 224, 226),rgb(59, 255, 186));
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

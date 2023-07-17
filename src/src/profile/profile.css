@@ -1,0 +1,74 @@
+.profilemain {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    /* border-radius: 2%; */
+    background:url("https://mcdn.wallpapersafari.com/medium/50/35/Zw3PKA.jpg");
+  }
+  .profile{
+    background: url("https://img.freepik.com/premium-photo/gold-frame-with-white-flowers-pink-background_784625-3861.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .profhead {
+    text-align: center;
+    color: #060606;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  .proffont{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .proftext {
+    width: 100%;
+    padding: 8px;
+    box-shadow:inset;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    font-family: cursive;
+  }
+  
+  .profbut {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  .profbut1{
+    float:right;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+  }
+  .backbut{
+    padding-top: 2%;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .photo-upload label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .photo-upload input[type="file"] {
+    display: inline-block;
+  }
+  
+  .photo-upload img {
+    max-width: 200px;
+    margin-top: 10px;
+  }
+  

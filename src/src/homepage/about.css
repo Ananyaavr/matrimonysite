@@ -1,0 +1,34 @@
+.aboutmid{
+    background-image: url(aboutback.webp);
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.abouttext1{
+    font-size: 4rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.divtext2{
+    padding: 4%;
+}
+.abouttext2{
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.abouttext2:hover{
+    color:steelblue;
+}
+.divtext3{
+    padding-top: 5%;
+}
+.abouttext3{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.abouttext4{
+    font-size: 40px;
+    color: blue;
+}
+.divcard1{
+    padding-top: 3%;
+}

@@ -1,0 +1,49 @@
+.contactmain{
+    background-image: url("https://i.pinimg.com/564x/65/6d/98/656d9832f3499cea5e7acf31823a55a8.jpg");
+    padding: 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contacthead1{
+    color: white;
+}
+
+.contacttext1{
+    font-size: 25px;
+    color: white;
+    padding-top: 2%;
+}
+.contacttext2{
+    font-size: 20px;
+    padding-top: 2%;
+    color: white;
+    font-weight: 500;
+}
+.contacttext3{
+    font-size: 20px;
+    padding-top: 2%;
+    color: white;
+    padding-bottom: 2%;
+}
+.contacttext4{
+    color: white;
+}
+.contacttext5{
+    color: white;
+    padding-top: 3%;
+    font-size: 18px ;
+}
+.contactfooter2{
+    background-color: white;
+    padding: 4%;
+}
+.contactfoottext1{
+    padding-left: 50%;
+    font-weight: 500;
+}
+.contactfoottext2{
+    padding-left: 50%;
+    padding-top: 1%;
+    font-weight: 500;
+}
+

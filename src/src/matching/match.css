@@ -1,0 +1,76 @@
+.match {
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #f2f2f2;
+    padding: 20px;
+    padding-top: 6%;
+    background-color:aliceblue
+  }
+  
+  .matchh1 {
+    text-align: center;
+    color: #333;
+    font-family: fantasy;
+  }
+  .matchside
+  {
+    font-size: 23px;
+    font-weight: 500;
+    color: brown;
+  }
+  .matchcontent{
+    font-size: 20px;
+    font-style: italic;
+    padding: 2%;
+  }
+  .profilecard {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .profilecard img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .profilecard .details {
+    flex-grow: 1;
+    padding-left: 5%;
+  }
+  
+  .profilecard .matchname {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .profilecard p {
+    margin: 0;
+    line-height: 1.5;
+  }
+  
+  .profilecard .button-container {
+    text-align: right;
+  }
+  
+  .profilecard .buttonmatch {
+    background-color: #4caf50;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  

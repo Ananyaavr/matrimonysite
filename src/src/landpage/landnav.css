@@ -1,0 +1,44 @@
+.nav2{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    left: 0;
+    right: 0;
+    position: fixed;
+    background-color: aliceblue;
+    box-shadow: inset 0 0 0 0 #a5c6d2;
+  
+    
+}
+.nav2 a{
+    color: inherit;
+    text-decoration: none;
+}
+.logo2{
+    width: 70px;
+    padding-top: 5px;
+    height: 100%;
+}
+.sitename2{
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navul{
+    /* justify-content: space-between;  */
+    margin-right: 10px;
+    list-style: none;
+    padding-right: 5px;
+    margin: 0;
+    display: flex;
+    color: #1793c0;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    gap: 1rem;
+}
+.nav2 li:hover{
+    background-color: aqua;
+    color: #fff;
+  box-shadow: inset 200px 0 0 0 #54b3d6;;
+}
